@@ -28,8 +28,7 @@ const Home: NextPage = () => {
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-          </a>
+          <a href="https://nextjs.org/learn" className={styles.card}></a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
